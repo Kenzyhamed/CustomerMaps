@@ -1,0 +1,4 @@
+flask
+pandas
+numpy
+google-cloud-aiplatform  # or any other specific libraries required for Vertex AI
